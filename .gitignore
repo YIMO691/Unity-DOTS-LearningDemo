@@ -49,3 +49,7 @@ Desktop.ini
 # Plugin / transient
 opencode.json
 *playmode*.log
+
+# Unity-generated project files
+/*.csproj
+/*.sln
